@@ -3,4 +3,4 @@
 **Question:** How do worker wages and government subsidies affect farmworker housing across states?
 **What I did:** Cleaned and merged USDA housing data, built choropleth maps of income and subsidy distribution by state, and analyzed the relationship between wages and housing density.
 **Key finding;** States with high concentrations of subsidized housing show a 'vulnerability gap', low wages but limited public assistance. 
-[View the full notebook](/projects/01-farmworker-housing/)
+[View the full notebook](Final-Project.ipynb)
