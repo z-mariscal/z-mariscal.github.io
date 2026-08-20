@@ -1,4 +1,6 @@
---- title: Farmworker housing Analysis ---
+--- 
+title: Farmworker housing Analysis 
+---
 
 **Question:** How do worker wages and government subsidies affect farmworker housing across states?
 **What I did:** Cleaned and merged USDA housing data, built choropleth maps of income and subsidy distribution by state, and analyzed the relationship between wages and housing density.
